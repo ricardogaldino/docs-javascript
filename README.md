@@ -1,2 +1,1 @@
-# docs-javascript
-JavaScript
+# JavaScript
